@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
+    <lastBuildDate>Thu, 24 Dec 2015 05:24:24 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>firstpost</title>
+      <link>/2015/12/24/firstpost/</link>
+      <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2015/12/24/firstpost/</guid>
+      <description>Rubrik Text
+ Daniel Pass daniel.antony.pass@googlemail.com Kieran Moore  En lite bild!</description>
+    </item>
+    
+  </channel>
+</rss>
