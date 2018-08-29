@@ -42,11 +42,31 @@
   <url>
     <loc>https://calendarbase.github.io/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://calendarbase.github.io/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calendarbase.github.io/tags/"
+                />
   </url>
   
   <url>
     <loc>https://calendarbase.github.io/topics/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://calendarbase.github.io/sv/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calendarbase.github.io/topics/"
+                />
   </url>
   
 </urlset>
