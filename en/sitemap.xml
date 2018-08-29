@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ny/</loc>
+    <loc>https://calendarbase.github.io/ny/</loc>
     <lastmod>2015-12-24T05:24:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/12/24/firstpost/</loc>
+    <loc>https://calendarbase.github.io/2015/12/24/firstpost/</loc>
     <lastmod>2015-12-24T05:24:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/home/</loc>
+    <loc>https://calendarbase.github.io/home/</loc>
     <lastmod>2015-12-24T05:24:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://calendarbase.github.io/</loc>
     <lastmod>2015-12-24T05:24:24+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/"
+                href="https://calendarbase.github.io/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://calendarbase.github.io/"
                 />
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://calendarbase.github.io/post/</loc>
     <lastmod>2015-12-24T05:24:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://calendarbase.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/topics/</loc>
+    <loc>https://calendarbase.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>/</link>
+    <link>https://calendarbase.github.io/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,34 +11,34 @@
     <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Thu, 24 Dec 2015 05:24:24 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calendarbase.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>/ny/</link>
+      <link>https://calendarbase.github.io/ny/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/ny/</guid>
+      <guid>https://calendarbase.github.io/ny/</guid>
       <description>#Test Lite bröd text. dfdfd En bild </description>
     </item>
     
     <item>
       <title>firstpost</title>
-      <link>/2015/12/24/firstpost/</link>
+      <link>https://calendarbase.github.io/2015/12/24/firstpost/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2015/12/24/firstpost/</guid>
+      <guid>https://calendarbase.github.io/2015/12/24/firstpost/</guid>
       <description>Rubrik Text
  Daniel Pass daniel.antony.pass@googlemail.com Kieran Moore  En lite bild!</description>
     </item>
     
     <item>
       <title>home</title>
-      <link>/home/</link>
+      <link>https://calendarbase.github.io/home/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/home/</guid>
+      <guid>https://calendarbase.github.io/home/</guid>
       <description> tEst Nu har vi forkat, klonat ett projekt. Mer text fkfkfdlk d&amp;rsquo; d d
 Rbrik </description>
     </item>
